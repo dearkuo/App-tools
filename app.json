@@ -1,0 +1,15 @@
+{
+    "name": "Apptools",
+    "version": "0.0.1",
+    "description": "測試練習micro:bit積木",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/zh/Apptools-strings.json"
+    ],
+    "public": true
+}
