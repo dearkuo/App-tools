@@ -1,5 +1,0 @@
-{
-    "Apptools|block": "工具",
-    "Apptools.areaOfRectangle|block": "長方形面積 長 %length|寬 %width",
-    "Apptools.ledOfRectangle|block": "LED顯示長方形面積 長 %length|寬 %width"
-}
